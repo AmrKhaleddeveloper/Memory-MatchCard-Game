@@ -1,0 +1,3 @@
+C:/Users/kamr0/Downloads/milestone2/Prj/cmake-build-debug/CMakeFiles/Prj.dir
+C:/Users/kamr0/Downloads/milestone2/Prj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kamr0/Downloads/milestone2/Prj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
